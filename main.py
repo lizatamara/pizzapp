@@ -80,8 +80,6 @@ while True:
     else:
         print('pedido cancelado')
         exit()
-
-print('caca')
         
 
 
